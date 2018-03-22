@@ -1,3 +1,3 @@
 # This file contains subroutines which check for Python
-# modules/packages on the system and installs them if they
+# modules/packages on the system and install them if they
 # are missing.
